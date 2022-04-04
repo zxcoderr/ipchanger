@@ -9,8 +9,8 @@ Hi there, that simple script, gives passwords.
     $$$$$$$$$$$$
 $$$$Installation$$$$
     $$$$$$$$$$$$
-1. bash install.sh
-2. python passwordss.py
+1. bash main.sh
+2. python ipchange.py
 
 $$$$$$$$$$$$$$$
 Enjoy! 
